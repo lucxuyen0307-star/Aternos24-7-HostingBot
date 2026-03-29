@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "cacsmp.aternos.me",
-    "port": 25751,
+    "ip": "haltmhz.aternos.me",
+    "port": 21112,
     "version": "",
     "try-creative": false
   },
